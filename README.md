@@ -12,7 +12,7 @@ What is Boondollar?
 Boondollar is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
  - 1 minute block targets
  - subsidy halves in 100k blocks
- - ~413 nillion total coins
+ - ~413 billion total coins
 
 The rest is the same as Bitcoin.
  - 420,000 coins per block
